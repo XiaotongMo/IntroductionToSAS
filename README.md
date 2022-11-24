@@ -1,9 +1,15 @@
 # PREFACE
 
-_Introduction to SAS_ （《SAS入门》）是基于多方资料整合而成，包括我硕士时上的课程《卫生统计及SAS应用》、_Little SAS Book_、[SAS支持文档](https://support.sas.com/en/documentation.html)、[李东风老师教程](https://www.math.pku.edu.cn/teachers/lidf/) 等。
+_Introduction to SAS Programming_（《SAS编程入门》）教程是为有兴趣入门SAS的学习者准备的，将会介绍SAS软件的基本操作、学习资源及认证考试框架、SAS Base和SAS Advanced的内容，具体操作内容基本上是根据认证考试的提纲来组织。
 
-整个教程根据我的学习需求将分为以下部分：
+_Introduction to SAS_ _Programming_ 将以gitbook形式发布，其内容托管于github。
 
-* [Base](SAS-cdc-biostat-sas-1.md)
-* Advance
+该教程目录如下:
+
+1. SAS软件简介
+2. SAS学习资源及认证考试
+3. SAS Base
+4. SAS Advanced
+
+
 

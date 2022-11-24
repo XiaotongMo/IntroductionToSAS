@@ -1,3 +1,7 @@
+---
+description: 根据其他人和我个人的经验，学习SAS的最好时机是实践一个项目，或者准备SAS认证考试。
+---
+
 # Learning resources and certification
 
 ## 学习资源
@@ -21,6 +25,21 @@
 上述内容来自《SAS中国培训手册》每个认证考试中所涉及的课程可能重合，具体详看SAS官网。
 
 
+
+* 认证考试相关网站（提供认证考试所对应的职业角色、所需要的课程内容、以及考试大纲）
+  * 中文  [https://www.sas.com/zh\_cn/certification/training-exam-preparation.html](https://www.sas.com/zh\_cn/certification/training-exam-preparation.html)
+  * 英文  [https://www.sas.com/en\_us/certification.html](https://www.sas.com/en\_us/certification.html)
+* 免费课程 [https://support.sas.com/edu/elearning.html?null\&ctry=HK](https://support.sas.com/edu/elearning.html?null\&ctry=HK)
+
+SAS程序员（基础与高级）的认证考试及对应课程，均可在以上网站中找到对应的[考试大纲和课程大纲](outlines-for-sp-base-and-advanced.md)。
+
+* Certification ：Base Programming Specialist
+  * Course: SAS Programming 1
+  * Course: SAS Programming 2
+* Certification: Advanced Programming Professional
+  * Course: SAS Programming 3
+  * Course: SAS Macro Language 1
+  * Course: SAS SQL 1
 
 
 

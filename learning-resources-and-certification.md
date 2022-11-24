@@ -18,7 +18,7 @@
 4. SAS系统开发专家：数据整合（Base, Advanced）、报表开发（Base, Advanced）、多维分析（Base, Advanced）
 5. SAS系统管理专家：SAS平台管理（Base, Advanced）、SAS EG管理（Base, Advanced）
 
-具体每个认证考试中所涉及的课程可能重合，具体详看SAS官网。
+上述内容来自《SAS中国培训手册》每个认证考试中所涉及的课程可能重合，具体详看SAS官网。
 
 
 

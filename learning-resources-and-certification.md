@@ -6,9 +6,24 @@ description: 根据其他人和我个人的经验，学习SAS的最好时机是�
 
 ## 学习资源
 
+整合来源有SAS官方、知乎\[^1]等网站。
+
 * 官方提供详实的文档、培训课程和书籍：[_SAS Documentation_](https://support.sas.com/en/documentation.html) 是帮助文档，培训课程和书籍有一部分是免费，大部分是付费提供。
+  * Help [https://documentation.sas.com/doc/en/pgmsascdc/9.4\_3.3/pgmsashome/home.htm](https://documentation.sas.com/doc/en/pgmsascdc/9.4\_3.3/pgmsashome/home.htm)
+  * 按主题分[https://support.sas.com/rnd/index.html](https://support.sas.com/rnd/index.html)
+  * base sas tip sheet（类似R cheatsheet） [https://support.sas.com/en/software/base-sas-support.html#6ddadff1-c328-4f03-b2fc-7a4393f76ca1](https://support.sas.com/en/software/base-sas-support.html#6ddadff1-c328-4f03-b2fc-7a4393f76ca1)
 * 对于中文学习者而言，推荐的在线学习资源包括但不限于：[李东风老师](https://www.math.pku.edu.cn/teachers/lidf/)的基于SAS的统计软件教程（[PDF链接](https://www.math.pku.edu.cn/teachers/lidf/docs/statsoft/PDF/bookbm.pdf)）、W3CSchool的[SAS教程](https://www.w3cschool.cn/sas/)、中国大学MOOC不止一门课程（如[武汉大学《SAS统计分析软件应用》](https://www.icourse163.org/course/WHU-1205976811)、[苏州大学《实用医学统计学与SAS应用》](https://www.icourse163.org/course/SUDA-1207007801)等）。
 * 较为经典的学习书籍包括但不限于：Little SAS Book（[豆瓣介绍](https://book.douban.com/subject/1458134/)）、《医学案例统计分析与SAS应用（第2版）》（由于个人是医学专业故推荐这本书 [豆瓣介绍](https://book.douban.com/subject/31829878/)）等，不一而足。
+*   其他
+
+    * University of Iowa SAS® Users Group [https://uisug.org.uiowa.edu/](https://uisug.org.uiowa.edu/)
+    * UCLA [https://stats.oarc.ucla.edu/sas/](https://stats.oarc.ucla.edu/sas/)
+    * 网友整理的SAS学习相关书籍 [http://www.globalstatements.com/sas/books/title.html](http://www.globalstatements.com/sas/books/title.html)
+    * Penn U（其中STAT480-STAT483是讲SAS的）  [https://online.stat.psu.edu/statprogram/undergraduate-studies](https://online.stat.psu.edu/statprogram/undergraduate-studies)
+
+
+
+\[^1]: 如何零基础自学SAS? - CoffeeCat的回答 - 知乎 https://www.zhihu.com/question/28303405/answer/1179229825
 
 ## 认证考试
 

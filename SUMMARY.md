@@ -1,5 +1,7 @@
 # Table of contents
 
 * [PREFACE](README.md)
-* [SAS软件简介](sas-ruan-jian-jian-jie.md)
+* [Brief intro for SAS](brief-intro-for-sas.md)
+* [Learning resources and certification](learning-resources-and-certification.md)
 * [import, format and export](SAS-cdc-biostat-sas-1.md)
+* [Untitled](untitled.md)
